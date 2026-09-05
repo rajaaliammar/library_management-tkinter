@@ -4,7 +4,7 @@
 
 1. Create virtual environment:
 
-```
+```   
 python -m venv venv_tkinter
 venv_tkinter\Scripts\activate
 ```
